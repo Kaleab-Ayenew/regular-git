@@ -1,0 +1,1 @@
+python C:\Users\COM-SORC\Documents\0all\tools\regular-git\regular-git.py %1
