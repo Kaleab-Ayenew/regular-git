@@ -43,8 +43,7 @@ def write_log(text):
 
 
 def git_deamon(sleep_time):
-    with open("regular-git.bat", "w") as batch_file:
-        batch_file.write(f"python {__file__} %1")
+
     while True:
 
         comment = write_log("regular commit")
